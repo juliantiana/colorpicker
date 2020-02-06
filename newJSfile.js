@@ -1,1 +1,0 @@
-//new javascript file for color picker

@@ -2,6 +2,6 @@ body {
   background-image: url("ClocktowerLogo.png");
 }
 
-.smallheader{
+#smallheader{
   font-family: "Arial", sans-serif;
 }

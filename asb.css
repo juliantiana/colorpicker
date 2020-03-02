@@ -1,16 +1,11 @@
 body {
   background-image: url("ClocktowerLogo.png");
+  font-size: 100%
 }
 
 #smallheader {
   font-family: "Arial", sans-serif;
-  letter-spacing: 0.3em;
-  text-align: center;
-}
-
-#bigheader{
- font-family: "Playfiar Display";  
- text-align: center;
+  letter-spacing: 0.5em;
 }
 
 #container {
@@ -20,16 +15,4 @@ body {
 #menuholddiv {
   width: 100%;
   background-color: "white";
-  position: fixed;
-}
-
-.menubutton {
-width:25%;
-height:50px;
-float:left;
-text-align: center;
-background:grey;
-font-family: "Arial", sans-serif;
-font-size:12pt;
-color:black;
 }

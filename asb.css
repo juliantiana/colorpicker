@@ -35,3 +35,25 @@ font-family: "Arial", sans-serif;
 font-size:12pt;
 color:"black";
 }
+
+// to make links show up cool
+a.nav-link:link
+{
+   color: #fb3f00;
+   text-decoration: none;
+}
+a.nav-link:visited
+{
+   color: #fb3f00;
+   text-decoration: none;
+}
+a.nav-link:hover
+{
+   color: #fb3f00;
+   text-decoration: none;
+}
+a.nav-link:active
+{
+   color: #fb3f00;
+   text-decoration: none;
+}

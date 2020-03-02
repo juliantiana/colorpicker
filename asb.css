@@ -18,6 +18,11 @@ body {
 }
   
 
+#bigheader{
+ font-family: "Playfiar Display";  
+}
+
+
 .menubutton {
 width:25%;
 height:50px;

@@ -20,4 +20,5 @@ body {
 #menuholddiv {
   width: 100%;
   background-color: "white";
+  position: fixed;
 }

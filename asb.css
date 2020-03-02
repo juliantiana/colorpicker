@@ -2,7 +2,16 @@ body {
   background-image: url("ClocktowerLogo.png");
 }
 
-#smallheader{
+#smallheader {
   font-family: "Arial", sans-serif;
   letter-spacing: 0.5em;
+}
+
+#container {
+  background-color: "lightgrey";
+}
+
+#menuholddiv {
+  width: 100%;
+  background-color: "white";
 }

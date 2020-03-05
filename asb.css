@@ -6,7 +6,7 @@ body {
 #smallheader {
   text-align: center;
   font-family: "Arial", sans-serif;
-  font-size:18em;
+  font-size:5em;
   letter-spacing: 0.3em;
 }
 
@@ -36,7 +36,7 @@ float:left;
 text-align: center;
 background:lightgrey;
 font-family: "Arial", sans-serif;
-font-size:12em;
+font-size:1em;
 color:black;
 text-decoration: none;
 }

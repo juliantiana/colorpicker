@@ -24,7 +24,7 @@ body {
 #bigheader{
  width:100%;
  background:black(0.5);
- font-size:100px; 
+ font-size:1em; 
  font-family: "Playfair Display";
 }
 

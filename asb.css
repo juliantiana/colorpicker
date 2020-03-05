@@ -12,6 +12,7 @@ body {
 
 #container {
   text-align: center;
+  background-color: white;
 }
 
 #menuholddiv {
@@ -23,7 +24,7 @@ body {
 
 #bigheader{
  width:100%;
- background:rgba(0,0,0,0.3);
+ background:white;
  font-size:10em; 
  font-family: "Playfair Display";
  color:white;

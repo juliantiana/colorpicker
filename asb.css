@@ -17,7 +17,8 @@ body {
 
 #menuholddiv {
   width: 100%;
-  background-color: "white";
+  border-top: 0.1em solid;
+  border-bottom: 0.1em solid;
 }
   
 

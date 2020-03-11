@@ -45,7 +45,7 @@ text-decoration: none;
 
 .menubutton:hover {
   background-color: rgb(87, 87, 87);
-  text:white;
+  color:white;
 }
 
 #headersdiv {

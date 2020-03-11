@@ -24,8 +24,8 @@ body {
 
 #bigheader{
  width:100%;
- font-size:10em; 
- font-family: "Playfair Display";
+ font-size:8em; 
+ font-family: 'Playfair Display', serif;
  color:white;
 }
 
@@ -45,7 +45,7 @@ text-decoration: none;
 
 .menubutton:hover {
   background-color: rgb(87, 87, 87);
-  text:white;
+  color:white;
 }
 
 #headersdiv {

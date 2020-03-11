@@ -1,7 +1,7 @@
 body {
-  background-image: url("ClocktowerLogo.png");
+  background-image: url("greyfadedtower.png");
   font-size: 100%;\
-  background-color: rgba(128,128,128,0.3);
+  /* background-color: rgba(128,128,128,0.3); */
 }
 
 #smallheader {
